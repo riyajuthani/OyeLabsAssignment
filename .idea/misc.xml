@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OyeLab Assignment/Project/app/src/main/res/drawable/custom_background.xml" value="0.2203125" />
+        <entry key="..\:/OyeLab Assignment/Project/app/src/main/res/drawable/custom_bglayout.xml" value="0.19722222222222222" />
+        <entry key="..\:/OyeLab Assignment/Project/app/src/main/res/drawable/custom_bgtxtview.xml" value="0.19722222222222222" />
+        <entry key="..\:/OyeLab Assignment/Project/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/OyeLab Assignment/Project/app/src/main/res/layout/activity_pulsespage.xml" value="0.20416666666666666" />
+        <entry key="..\:/OyeLab Assignment/Project/app/src/main/res/layout/bestselling_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/OyeLab Assignment/Project/app/src/main/res/layout/custom_actionbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/OyeLab Assignment/Project/app/src/main/res/layout/exclusive_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/OyeLab Assignment/Project/app/src/main/res/layout/grocery_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/OyeLab Assignment/Project/app/src/main/res/layout/pulsespage.xml" value="0.20416666666666666" />
+        <entry key="..\:/OyeLab Assignment/Project/app/src/main/res/layout/pulsesslider_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/OyeLab Assignment/Project/app/src/main/res/layout/slider_item.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
